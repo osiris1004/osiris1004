@@ -54,8 +54,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,typescript,react,expressjs,mysql,mongo,nestjs,docker,nginx,git" />
-    <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,html,css,tailwind,redux" />
+      <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,nodejs,nestjs,express,react,angular,html,css,tailwind,redux" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,prometheus,grafana,aws,gcp" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,swagger,vscode" />
     <br/><br/><br/>
 </div>
 
@@ -76,16 +78,10 @@
 <h2 align="left">⚡ Stats .................. </h2>
 <br>
 <div align=center>
-  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osiris1004&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> -->
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,nodejs,nestjs,express,react,angular,html,css,tailwind,redux" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,prometheus,grafana,aws,gcp" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,swagger,vscode" />
-
-
-
-
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osiris1004&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" /></a>
 </div>
+
 
