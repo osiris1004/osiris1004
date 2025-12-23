@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working on **AI Chat bot for my sit**
+- 🔭 I’m currently working on **AI Chat bot for my site**
 
 - 🌱 I’m currently learning **Spring AI**
 
@@ -36,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/osiris-kontchou-b2a252223/">
+<a href="https://www.linkedin.com/in/osiris-k-b2a252223/">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
 </a>
 <a href="mailto:kontchou05@gmail.com">
@@ -76,8 +76,16 @@
 <h2 align="left">⚡ Stats .................. </h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osiris1004&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osiris1004&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> -->
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,nodejs,nestjs,express,react,angular,html,css,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,prometheus,grafana,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,postman,swagger,vscode" />
+
+
+
 
    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" /></a>
 </div>
+
