@@ -24,9 +24,9 @@
 
 - 🌱 I’m currently learning **Spring AI**
 
-- 👨‍💻 Some of my projects are available at [https://osiris-code.space/](api-osiris)
+- 👨‍💻 Some of my projects are available at : <a href="https://osiris-code.space/" target="_blank"> My Web Site </a>
 
-- 📫 How to reach me [https://osiris-code.space/](api-osiris)
+- 📫 How to reach me :  <a href="https://osiris-code.space/" target="_blank"> My Web Site </a>
 
 - ⚡ Fun fact **I am funny**
 
@@ -42,7 +42,7 @@
 <a href="mailto:kontchou05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
- <a href="https://api-osiris.tech/" target="_blank">
+ <a href="https://osiris-code.space/" target="_blank">
      <img src="https://img.shields.io/badge/MY WEB SITE-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
 </a>
 
@@ -83,5 +83,6 @@
   
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osiris1004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" /></a>
 </div>
+
 
 
